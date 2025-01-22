@@ -16,9 +16,6 @@
           <a class="nav-link active" aria-current="page" href="/cutputri/UAS_cutputriefrina/tamu/index.php">Data Tamu</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="/cutputri/UAS_cutputriefrina/ubah-pass.php">Ubah Password</a>
-        </li>
-        <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="/cutputri/UAS_cutputriefrina/logout.php">Logout</a>
         </li>
         
